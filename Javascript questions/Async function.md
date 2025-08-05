@@ -1,4 +1,4 @@
-## Infinite Currying in JavaScript
+## Async function
 
 
 Implement a function to get input and array of funtions and return value.
